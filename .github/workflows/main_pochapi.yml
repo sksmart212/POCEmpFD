@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'POCHAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5B375378E854FA0A34D400E07D73CCC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92902AFC1D0E48668087B4E2CB3D3BC5 }}
